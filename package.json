@@ -1,0 +1,15 @@
+{
+  "name": "trabalho-pratico",
+  "version": "1.0.0",
+  "description": "trabalho pratico do modulo 1 do bootcamp de node.js da igti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
